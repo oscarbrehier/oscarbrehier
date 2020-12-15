@@ -1,2 +1,2 @@
 <h1 align="center">Hi 👋, I'm Epicrafter, but you can also call me Epic.</h1>
-<h3 align="center">A passionate Aussie/French Developer <img src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/fr.svg"></h3>
+<h3 align="center">A passionate Aussie/French Developer <img src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/fr.svg" width="15"></h3>
