@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Epicrafter, but you can also call me Epic.</h1>
+<h1 align="center">Hi 👋, I'm Epicrafter.</h1>
 <h3 align="center">A passionate Aussie/French Developer</h3>
 
 - 🔭 I'm currently working on [Xeno Discord Bot](https://github.com/Epicrafter/xeno-bot-discord)
