@@ -26,7 +26,7 @@
 </div>
 
 <details>
-<summary align="center">My GitHub Statisctis</summary><br>
+<summary align="center">My GitHub Statistics</summary><br>
 <p align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=Epicrafter&show_icons=true&theme=tokyonight">
 </p>
