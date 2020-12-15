@@ -16,7 +16,7 @@
 </p>
 
 <div align="center">
-    <i>Follow me around the web:</i><br>
+    <i align="center">Follow me around the web:</i><br>
 
   <a target="_blank" href="https://discord.com/users/342333088573161472">Discord</a> ●
   <a target="_blank" href="https://www.instagram.com/brh.oscar/">Instagram</a> ●
