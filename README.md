@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Epicrafter.</h1>
+<!--h1 align="center">Hi 👋, I'm Epicrafter.</§h1>
 
 - 🔭 I'm currently working on [Xeno Discord Bot](https://github.com/Epicrafter/xeno-bot-discord)
 
@@ -30,6 +30,9 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=Epicrafter&show_icons=true&theme=tokyonight">
 </p>
 </details>
+<-->
 
-
+```zsh
+> npm i epicrafter --save
+```
 
