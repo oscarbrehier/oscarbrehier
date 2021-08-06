@@ -2,7 +2,7 @@
 > npm i epicrafter --save
 ```
 
-<img align="left" border-radius="10px" src="https://i.imgur.com/HWxOnw9.jpg" width="320" /> 
+<img align="left" style="border-radius: 10px;" src="https://i.imgur.com/HWxOnw9.jpg" width="320" /> 
 
 ```csharp
 epicrafter@github
