@@ -36,3 +36,18 @@
 > npm i epicrafter --save
 ```
 
+<img align="left" src="https://i.imgur.com/HWxOnw9.jpg">
+```csharp
+epicrafter@github
+-----------------
+OS: Linux x86
+Shell: Tcsh-6.21.00
+Location: Paris, France or Athens, Greece
+
+Framework: Node.JS
+Languages: JavaScript, HTLM, CSS, Java
+Learning: Python
+
+Discord: Epicrafter#4261
+
+```
