@@ -16,7 +16,7 @@ Description: Frontend and Backend developer
 Frameworks: Node.JS
 Languages: JavaScript, HTML, CSS, Java
 Learning: Python 
-Other-Skills: Adobe Photoshop & Illustrator
+OtherSkills: Adobe Photoshop & Illustrator
 
 Discord: Epicrafter#4261
 Email: brehieroscar@gmail.com
