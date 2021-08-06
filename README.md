@@ -21,4 +21,5 @@ OtherSkills: Adobe Photoshop & Illustrator
 
 Discord: Epicrafter#4261
 Email: brehieroscar@gmail.com
+
 ```
