@@ -3,6 +3,8 @@
 ```
 
 ```js
+const { profile } = require('epicrafter');
+
 const profile = {
 	name: "Oscar Bréhier",
 	age: "16",
