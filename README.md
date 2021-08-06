@@ -2,24 +2,19 @@
 > npm i epicrafter --save
 ```
 
-<img align="left" src="https://i.imgur.com/HWxOnw9.jpg" width="320" /> 
-
-```csharp
-epicrafter@github
--------------------------
-OS: Linux x86
-Shell: Tcsh 6.21.00
-LastEdit: 06/08/21
-
-Description: Frontend and Backend developer
-Location: Paris, FR / Athens, GR
-Age: 16
-
-Frameworks: Node.JS
-Languages: JavaScript, HTML, CSS, Java
-Learning: Python 
-OtherSkills: Adobe Photoshop & Illustrator
-
-Discord: Epicrafter#4261
-Email: brehieroscar@gmail.com
+```js
+const profile = {
+	name: "Oscar Bréhier",
+	age: "16",
+	speaks: ["French", "English"],
+	location: "Athens GR",
+	languages: ["JavaScript", "HTML", "CSS", "Java"], 
+	tools: "Node.JS",
+	socials: {
+		discord: "Epicrafter#4261",
+		email: "brehieroscar@gmail.com",
+		instagram: "brh.oscar",
+		github: "https://github.com/Epicrafter"
+	} 
+}
 ```
