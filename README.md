@@ -9,9 +9,10 @@ epicrafter@github
 -------------------------
 OS: Linux x86
 Shell: Tcsh 6.21.00
-Location: Paris, FR / Athens, GR
+LastEdit: 06/08/21
 
 Description: Frontend and Backend developer
+Location: Paris, FR / Athens, GR
 Age: 16
 
 Frameworks: Node.JS
@@ -21,5 +22,4 @@ OtherSkills: Adobe Photoshop & Illustrator
 
 Discord: Epicrafter#4261
 Email: brehieroscar@gmail.com
-
 ```
