@@ -12,6 +12,7 @@ Shell: Tcsh 6.21.00
 Location: Paris, FR / Athens, GR
 
 Description: Frontend and Backend developer
+Age: 16
 
 Frameworks: Node.JS
 Languages: JavaScript, HTML, CSS, Java
