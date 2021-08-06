@@ -33,21 +33,25 @@
 <-->
 
 ```zsh
-> npm i epicrafter --save
+> neofetch
 ```
 
-<img align="left" src="https://i.imgur.com/HWxOnw9.jpg">
+<img align="left" src="https://i.redd.it/h7dae4o0uk461.jpg" alt="Bakaguya made by レヴィノス (https://www.pixiv.net/en/artworks/80962527)" width="320" /> 
+
 ```csharp
-epicrafter@github
------------------
-OS: Linux x86
-Shell: Tcsh-6.21.00
-Location: Paris, France or Athens, Greece
-
-Framework: Node.JS
-Languages: JavaScript, HTLM, CSS, Java
-Learning: Python
-
-Discord: Epicrafter#4261
-
+anordinaryusername@github
+-------------------------
+OS: Arch Linux x86_64
+Shell: zsh 5.7.1
+Pronouns: He/Him
+Location: Artesia, CA
+Frameworks: React
+Languages: JavaScript, TypeScript,
+           HTML, CSS
+Learning: Node.js, Express, PostgreSQL,
+          Three.js, CPP
+Hobbies: Gardening, Cooking, Gaming
+Commits: 956
+Stars: 7
+Discord: RandomPotato#1377
 ```
