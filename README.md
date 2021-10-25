@@ -12,7 +12,7 @@ const profile = {
 	speaks: ["French", "English"],
 	location: "Athens GR",
 	languages: ["JavaScript", "HTML", "CSS", "Java"], 
-	tools: "Node.JS",
+	tools: ["NodeJS", "React"],
 	socials: {
 		discord: "Epicrafter#4261",
 		email: "brehieroscar@gmail.com",
