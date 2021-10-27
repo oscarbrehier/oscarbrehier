@@ -3,9 +3,9 @@
 ```
 
 ```js
-const { profile } = require('epicrafter');
+const { Profile } = require('epicrafter');
 
-const user = ({
+const user = new Profile({
 	name: "Oscar Bréhier",
 	age: "16",
 	description: "Full stack web developer and designer",
