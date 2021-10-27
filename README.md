@@ -5,7 +5,7 @@
 ```js
 const { profile } = require('epicrafter');
 
-const profile = {
+const user = ({
 	name: "Oscar Bréhier",
 	age: "16",
 	description: "Full stack web developer and designer",
@@ -19,5 +19,5 @@ const profile = {
 		instagram: "brh.oscar",
 		github: "https://github.com/Epicrafter"
 	} 
-}
+})
 ```
