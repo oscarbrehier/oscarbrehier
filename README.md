@@ -3,10 +3,10 @@
 ```
 
 ```js
-const { Profile } = require('epicrafter');
+const { Profile } = require('merlax');
 
 const user = new Profile({
-	name: "Oscar Bréhier",
+	name: "André Merlaux",
 	age: "16",
 	description: "Full stack web developer and designer",
 	speaks: ["French", "English"],
