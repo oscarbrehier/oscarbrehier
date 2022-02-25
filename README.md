@@ -6,7 +6,7 @@
 const { Profile } = require('merlax');
 
 const user = new Profile({
-	name: "André Merlaux",
+	name: "Oscar Bréhier",
 	age: "16",
 	description: "Full stack web developer and designer",
 	speaks: ["French", "English"],
@@ -15,7 +15,8 @@ const user = new Profile({
 	tools: ["NodeJS", "React"],
 	socials: {
 		discord: "Epicrafter#4261",
-		github: "https://github.com/andremerlaux"
+		github: "https://github.com/andremerlaux",
+		email: "brehieroscar@gmail.com"
 	} 
 })
 ```
