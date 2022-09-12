@@ -15,7 +15,8 @@ const user = new Profile({
 	tools: ["NodeJS", "React"],
 	socials: {
 		discord: "Epicrafter#4261",
-		github: "https://github.com/andremerlaux",
+		github: "https://github.com/oscarbrehier",
+		instagram: "https://instagram.com/brh.oscar",
 		email: "brehieroscar@gmail.com"
 	} 
 });
