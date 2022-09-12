@@ -18,5 +18,8 @@ const user = new Profile({
 		github: "https://github.com/andremerlaux",
 		email: "brehieroscar@gmail.com"
 	} 
-})
+});
+
+user.giveBirth();
+
 ```
