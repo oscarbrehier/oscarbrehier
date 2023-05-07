@@ -7,7 +7,7 @@ const { Profile } = require('merlax');
 
 const user = new Profile({
 	name: "Oscar Bréhier",
-	age: "17",
+	age: "18",
 	description: "Full stack web developer and designer",
 	speaks: ["French", "English"],
 	location: "Athens GR",
