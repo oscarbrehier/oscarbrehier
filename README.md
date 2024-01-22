@@ -10,8 +10,7 @@ const user = new Profile({
 	age: "18",
 	description: "Full stack web developer and designer",
 	speaks: ["French", "English"],
-	location: "Athens GR",
-	languages: ["JavaScript", "HTML", "CSS", "Java", "Python"], 
+	location: "Paris, France",
 	tools: ["NodeJS", "React"],
 	socials: {
 		discord: "epicrafter",
