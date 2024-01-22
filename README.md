@@ -1,5 +1,5 @@
 ```zsh
-> npm i epicrafter --save
+> npm i merlax --save
 ```
 
 ```js
